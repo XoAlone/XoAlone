@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey skid, I am XoAlone and welcome to my Github profile. 👋</h1>
+<h1 align="center">👋 Hey stranger, I am XoAlone and welcome to my Github profile. 👋</h1>
 <h2 align="center">❤️ Web Developer ❤️</h2>
 
 <p align="center"><b>I am a semi-pro in:</p>
