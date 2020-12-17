@@ -15,6 +15,7 @@
    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <br>
    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+   <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
 </p>
 
