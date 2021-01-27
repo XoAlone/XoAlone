@@ -14,7 +14,7 @@
 <p align="center"><b>Tools & Frameworks:</p>
 <p align="center">
    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-   <img width="50" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png">
+   <img width="50" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png">
    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> <br />
    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
