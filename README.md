@@ -24,3 +24,6 @@
    <img src="https://github-readme-stats.vercel.app/api?username=XoAlone&show_icons=true&theme=tokyonight">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XoAlone&layout=compact&theme=tokyonight">
 </p>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XoAlone&layout=compact&theme=tokyonight">
+</p>
