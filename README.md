@@ -14,7 +14,6 @@
 <p align="center"><b>Tools & Frameworks:</p>
 <p align="center">
    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
