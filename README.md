@@ -1,4 +1,4 @@
-<h1 align="left">Hey There! My name is XoAlone. 👋</h1>
+<h1 align="left">Hey there, my name is XoAlone! 👋</h1>
 <h2 align="center">Semi Full-stack Developer</h2>
 
 <p align="center"><b>Languages:</p>
