@@ -21,7 +21,7 @@
 <details>
    <summary>Github Stats</summary>
    <p>
-      (I know they suck)
+      (I know they suck) <br />
       <img src="https://github-readme-stats.vercel.app/api?username=XoAlone&show_icons=true&theme=tokyonight">
    </p>
    <p>
